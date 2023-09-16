@@ -7,12 +7,12 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lakhvinder SIngh",
+  "author": "rai vikas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thor8126/Employee-Review-System"
+    "url": "https://github.com/raivikas12/ERS"
   },
-  "homepage": "https://github.com/thor8126/Employee-Review-System",
+  "homepage": "https://github.com/raivikas12/ERS",
   "dependencies": {
     "connect-mongo": "^4.6.0",
     "ejs": "^3.1.8",
